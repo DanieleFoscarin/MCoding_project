@@ -1,39 +1,55 @@
 lena
 LBG distortion: 0.0008924
+LBG no reg distortion: 0.0015235
+LBG norm std: 0.0013127
 jpeg distortion: 0.0018855
 LBG vs jpeg distortion: 0.0025295
 
 baboon
 LBG distortion: 0.0031538
+LBG no reg distortion: 0.0030751
+LBG norm std: 0.0024397
 jpeg distortion: 0.0098221
 LBG vs jpeg distortion: 0.012074
 
 peppers1
 LBG distortion: 0.0023745
+LBG no reg distortion: 0.0038377
+LBG norm std: 0.0033012
 jpeg distortion: 0.0035629
 LBG vs jpeg distortion: 0.0050617
 
 gradient
 LBG distortion: 0.0049455
+LBG no reg distortion: 0.0079957
+LBG norm std: Distortion is 0.005072
 jpeg distortion: 0.00012337
 LBG vs jpeg distortion: 0.0050373
 
 peppers2
 LBG distortion: 0.0065141
+LBG no reg distortion: 0.0024103
+LBG norm std: Distortion is 0.0054019
 jpeg distortion: 0.0015739
 LBG vs jpeg distortion: 0.0075302
 
 autumn
 LBG distortion: 0.00057959
+LBG no reg distortion: 0.00079332
+LBG norm std: Distortion is 0.00052396
 jpeg distortion: 0.0022548
 LBG vs jpeg distortion: 0.0027143
 
 lighthouse
 LBG distortion: 0.0035754
+LBG no reg distortion: 0.0036438
+LBG norm std: Distortion is 0.0042442
 jpeg distortion: 0.0021478
 LBG vs jpeg distortion: 0.0053274
 
 pears
 LBG distortion: 0.0037697
+LBG no reg distortion: 0.0015776
+LBG norm std: Distortion is 0.0018484
 jpeg distortion: 0.00091193
 LBG vs jpeg distortion: 0.0046214
